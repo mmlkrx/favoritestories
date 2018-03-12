@@ -7,6 +7,7 @@ This is a collection of some of my favorite stories.
 **Written**
 
 - [Frozen Alive](https://github.com/mmlkrx/favoritestories/blob/master/source/frozen_alive.md) - A short story about hypothermia
+- [100 Words](https://github.com/mmlkrx/favoritestories/blob/master/source/100_words.md) - If you ever speak more than one-hundred words to someone, they will die
 - [Hacking the President's DNA](https://github.com/mmlkrx/favoritestories/blob/master/source/hacking_the_presidents_dna.md) - A dystopian spin on DNA sequencing
 
 **Audio**
