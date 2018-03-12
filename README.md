@@ -7,6 +7,7 @@ This is a collection of some of my favorite stories.
 **Written**
 
 [Frozen Alive - A short story about hypothermia](https://github.com/mmlkrx/favoritestories/blob/master/source/frozen_alive.md)
+[Hacking the President's DNA - A dystopian spin on DNA sequencing](https://github.com/mmlkrx/favoritestories/blob/master/source/hacking_the_presidents_dna.md)
 
 **Audio**
 
